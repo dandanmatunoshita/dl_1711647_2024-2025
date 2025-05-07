@@ -71,5 +71,3 @@ with open(output_json_path, "w") as json_file:
     json.dump(image_data_list, json_file, indent=4)
 
 print(f"JSON salvo em {output_json_path}")
-
-#teste
