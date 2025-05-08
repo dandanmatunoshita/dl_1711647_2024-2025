@@ -1,3 +1,4 @@
 dataset/
 dataset_criptografado/
 dataset_descriptografado/
+fernet_key.key
