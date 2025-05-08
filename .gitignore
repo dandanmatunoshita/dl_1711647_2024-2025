@@ -1,3 +1,6 @@
 dataset/
 dataset_descriptografado/
+encrypted_dataset/
+decrypted_dataset/
 fernet_key.key
+private_key.pem
